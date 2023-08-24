@@ -3,5 +3,5 @@ In this public repository, I will describe my coding projects! These projects ar
 
 
 ## Analysis of Meteorite Landings
- Analyzed a csv file containing 46,000 Meteorite landings data up until 2016
- Coded in Python leveraging pandas and other libraries to clean, create visualizations, and assess data
+* Analyzed a csv file containing 46,000 Meteorite landings data up until 2016
+* Coded in Python leveraging pandas and other libraries to clean, create visualizations, and assess data
