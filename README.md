@@ -42,3 +42,5 @@ In my current role as a Data Management Specialist, I created a code that would 
 lot of time!
 
 ![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/b489bc79-89bd-4d65-9ccf-bb06839536a1)
+![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/ac80c71e-b555-4f03-b143-91fc69361b0c)
+
