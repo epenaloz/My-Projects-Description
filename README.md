@@ -36,3 +36,9 @@ Grade: A
 * Analyzed data from a csv file containing 190,000 lines of E-commerce data imported from Kaggle
 * Coded in Python to retrieve a total number of unique items, customers, and country. Obtained the average number of
 unique items per invoice, average transaction per invoice, and total number of purchases for each item
+
+## Analysis of Qualtrics Comments Per Provider
+In my current role as a Data Management Specialist, I created a code that would gather the comments from qualtrics, and look for specific providers within the comments, and generate a PDF as a result. This process was done manually however this code saved us a
+lot of time!
+
+![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/b489bc79-89bd-4d65-9ccf-bb06839536a1)
