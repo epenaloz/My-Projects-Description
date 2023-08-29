@@ -1,5 +1,5 @@
 # My-Projects-Description
-In this public repository, I will describe my coding projects! These projects are projects I have completed during my undergraduate years at CSULA and gradute years at USC.
+In this public repository, I will describe my coding projects! These projects are projects I have completed during my undergraduate years at CSULA and graduate years at USC.
 
 
 ## Analysis of Meteorite Landings
