@@ -51,7 +51,8 @@ For my Machine learning course, we are learning supervised learning methods such
 
 ![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/d2d172bf-ee8f-49e8-bc11-d9e7eb2e9e13)
 ![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/9539543b-d963-4f94-9bcd-0497542352cd)
-![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/2acfc0f5-bae1-4f64-9ae2-eb3b4995791b)
+![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/621afc6c-7994-4fed-9856-aec979100356)
+
 
 
 
