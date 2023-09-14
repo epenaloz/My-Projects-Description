@@ -47,7 +47,7 @@ lot of time!
 
 ## Vertabal Column Data Set
 
-For my Machine learning course, we are learning supervised learning methods such as K Nearest Neighbors. For this assignment I was tasked to pre-process the data, generate scatter plots and bar plots on the independent variables, createa a K Nearest Neighbors algorithm for a variety of metrics and determine the lowest training error I received! My results are shown below. If you are interested in the data you can find it here: https://archive.ics.uci.edu/dataset/212/vertebral+column
+For my Machine learning course, we are learning supervised learning methods such as K Nearest Neighbors. For this assignment I was tasked to pre-process the data, generate scatter plots and bar plots on the independent variables, create a K Nearest Neighbors algorithm for a variety of metrics and determine the lowest training error I received! My results are shown below. If you are interested in the data you can find it here: https://archive.ics.uci.edu/dataset/212/vertebral+column
 
 ![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/d2d172bf-ee8f-49e8-bc11-d9e7eb2e9e13)
 ![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/9539543b-d963-4f94-9bcd-0497542352cd)
