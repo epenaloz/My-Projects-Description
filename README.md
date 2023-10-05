@@ -2,6 +2,8 @@
 In this public repository, I will describe my coding projects! These projects are projects I have completed during my undergraduate years at CSULA and graduate years at USC.
 
 
+
+
 NOTE: No code will be publicly shown, only descriptions. 
 
 Each folder contains a readME.md that will contain the project/assignment descriptions!
