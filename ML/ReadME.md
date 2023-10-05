@@ -1,6 +1,6 @@
 ## Vertabal Column Data Set
 
-For my Machine learning course, we are learning supervised learning methods such as K Nearest Neighbors. For this assignment, I was tasked with pre-processing the data, generating scatter plots and bar plots on the independent variables, creating a K Nearest Neighbors algorithm for various metrics, and determining the lowest training error I received! My results are shown below. If you are interested in the data, you can find it here: https://archive.ics.uci.edu/dataset/212/vertebral+column
+In this assignment, I used K Nearest Neighbors, an ML algorithm for supervised learning.  For this assignment, I pre-processed the data, generated scatter plots and bar plots on the independent variables, created a K Nearest Neighbors algorithm for various metrics, and determined the lowest training error I received! My results are shown below. If you are interested in the data, you can find it here: https://archive.ics.uci.edu/dataset/212/vertebral+column
 
 Grade: A+
 
@@ -10,7 +10,7 @@ Grade: A+
 
 
 ## Combined Cycle Power Plant Data Set
-For my machine learning course, we are learning supervised learning methods. In this homework assignment, I implemented simple linear regression, multiple linear regression, pairwise interaction regression, polynomial regression, and quadratic nonlinearities. This assignment aimed to understand the change in the MSE on certain predictors/features and how it changes depending on the model or backward selection!
+In this homework assignment, I implemented simple linear regression, multiple linear regression, pairwise interaction regression, polynomial regression, and quadratic nonlinearities. This assignment aimed to understand the change in the MSE on certain predictors/features and how it changes depending on the model or backward selection!
 
 Grade: A
 
@@ -23,4 +23,17 @@ Here are some visualizations I created for this assignment.
 ![image](https://github.com/epenaloz/My-Projects-Description/assets/118321814/1e0ea61a-3beb-406a-a936-913242c51cbb)
 
 
+## Time Series Classification:
 
+Grade Part 1:
+
+
+
+Grade Part 2:
+
+
+
+In this assignment, I am tasked to do classifiation a time series data. The data used in this assignment can be found in the link below.
+I do feature extraction on this dataset, focusing on time-domain features. Then, estimate std and confidence intervals using Bootstrap.
+
+Data: https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+\%28AReM\%29
