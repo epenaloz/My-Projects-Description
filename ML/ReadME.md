@@ -33,7 +33,20 @@ Grade Part 2:
 
 
 
-In this assignment, I am tasked to do classifiation a time series data. The data used in this assignment can be found in the link below.
+In this assignment, I am tasked to do classification on time series data. The data used in this assignment can be found in the link below.
 I do feature extraction on this dataset, focusing on time-domain features. Then, estimate std and confidence intervals using Bootstrap.
 
 Data: https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+\%28AReM\%29
+
+I extract time domain features like the minimum, maximum, mean, median, etc for all 6 time series.
+
+![Screenshot 2024-02-11 at 3 10 54 PM](https://github.com/epenaloz/My-Projects-Description/assets/118321814/e16b3d20-6eb1-457f-8322-a92116aed00b)
+
+Using Bootstrap, I generate an interval for the standard deviation of each feature.
+
+![Screenshot 2024-02-11 at 3 12 02 PM](https://github.com/epenaloz/My-Projects-Description/assets/118321814/315caaab-27cb-45bc-924b-2a77b36191de)
+
+
+
+
+
