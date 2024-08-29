@@ -40,8 +40,22 @@ Libraries used: sqlalchemy, pymysql, pandas, sys
 I was tasked with storing a table with the following schema: person(id int primary key, name varchar(20), gender char(1)), in a CSV file where each line represents a person record.
 I was tasked to write two Python files.
 
-insert.py => that inserts a new person into the table, not allowing the insertion to proceed if it violates the primary key or other constraints.
+insert.py => inserts a new person into the table, not allowing the insertion to proceed if it violates the primary key or other constraints.
 
-search.py => returns the records of students witha  given name 
+search.py => returns the records of students with a given name 
+
+I was also tasked to manually calculate/explain the steps for joining algorithms such as sorting, partition hashed join, sort-merge join, block-based, and nested loops, indicating the sizes of output for each step, the total number of I/Os needed for each algorithm, and showing which algorithm was most efficient in terms of I/Os.
 
 
+## Homework 5: Hadoop and Spark, Map Reduce
+
+I was tasked to edit a Map Reduce Program to answer a SQL query based on sales.csv data that contains 3,861 rows. Each row has the following values: Store, product, weekly unit sold, is_holiday, base_price.
+
+The SQL query that needed to be answered was the following: 
+SELECT store, product, max(weekly_unit_sold) FROM sales WHERE is_holiday = 'FALSE' and base_price > price GROUP BY store, product HAVING count(*) >=21;
+
+This was run in hadoop EC2 instance, I modified the java file of the map reduce code to output necessary data for the query.
+
+The next task was using data from the following JSON files: country.json, city.json, and countrylaunguage.json. 
+
+I was tasked to write a Spark Datarame script for certain queries. Then doing the same queries but in Spark RDD. The following queries I answered are below:
