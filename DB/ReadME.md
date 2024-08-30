@@ -1,6 +1,6 @@
 # Descriptions of assignments done in Foundations of Data Management
 
-NOTE: SQL and other was used using Amazon Web EC2 Instances.
+NOTE: A lot of the assingments were done on EC2 AWS
 
 ## Homework 1: Firebase
 I was tasked to connect to a database in Firebase and generate 7 Python files to add and find data within the database. The 7 files consisted of: add_course, add_instructor, add_student, find_instructor_courses, find_student_courses, take_course, and teach_course. Each Python file takes in 3 inputs in the command line; the code will check or raise expectations when needed and update the database.
@@ -107,7 +107,7 @@ I was tasked to write 3 Python scripts using Pymongo to get data from my Mongo D
 
 
 ## Lab 4: DynamoDB
-I was tasked to create a table in DynamoDB containing data of two people with multiple attributes randing from strings, maps, numbers, booleans, lists etc.
+I was tasked to create a table in DynamoDB containing data of two people with multiple attributes ranging from strings, maps, numbers, booleans, lists etc.
 
 
 ## Final Project: Implement a sample database system
