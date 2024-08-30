@@ -4,7 +4,7 @@ In this public repository, I will describe my coding projects! These projects ar
 
 
 
-NOTE: No code will be publicly shown, only descriptions. 
+NOTE: No code will be publicly shown, only descriptions of the assingments/implementations I did. 
 
 Each folder contains a readME.md that will contain the project/assignment descriptions!
 
@@ -13,10 +13,10 @@ This folder will include any data analysis or data science projects from courses
 
 #### The ML folder stands for Machine Learning. 
 This folder contains  descriptions of assignments I have learned in my Machine Learning Course.
-Some topics include KNN, KNN regression, Linear Regression, Multiple Linear Regression, Polynomial Regression, test and train MSEs, Bootstrap, and more!
+Some topics include KNN, KNN regression, Linear Regression, Multiple Linear Regression, Polynomial Regression, Logistic Regression, test and train MSEs, Bootstrap, NN, Confidence Intervals, Time Series Classification, and more.
 
 
 #### The DB folder stands for Database Management
-This folder will include descriptions of assignments I have completed in the Firebase Real-Time Database and more!
+This folder will include descriptions of assignments I completed in the USC Data Management Course. Assingments included using Firebase Real-Time Database, SQL, MongoDB, DynamoDB, and more.
 
 
