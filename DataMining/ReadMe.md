@@ -28,3 +28,6 @@ I implemented Apriori to find frequent singles, pairs, triples, etc. My code con
 ### Homework 2: Ta Fend Dataset (Kaggle)
 **Case 3**: This case uses another data set called, "Ta Feng Dataset", which is found on Kaggle: https://bit.ly/2miWqFS
 We have to apply our algorithm from Case 1 to this dataset. However, we were tasked to generate a **data pipeline** in where the input is the raw Ta Fend data set, there is a mid-output of a new CSV of the data after data cleansing/prepping, and the final output is a CSV file containing one column for "Date-CustomerID" and another column containing the "ProductID"
+
+### Homework 3: Locality Sensitive Hashing LSH & Collaborative Recommendation Systems
+
